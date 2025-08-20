@@ -32,7 +32,7 @@ The system recommends movies similar to a given movie by analyzing plot, genres,
 - **Get Carter**
 
 ### 📊 Results
--Successfully generates top 5 movie recommendations based on similarity.
--Handles NLP preprocessing (stemming + stopwords removal).
--Vector space of 5000 features ensures compact yet effective representation.
+- Successfully generates top 5 movie recommendations based on similarity.
+- Handles NLP preprocessing (stemming + stopwords removal).
+- Vector space of 5000 features ensures compact yet effective representation.
 
