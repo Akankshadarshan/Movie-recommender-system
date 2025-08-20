@@ -26,13 +26,13 @@ The system recommends movies similar to a given movie by analyzing plot, genres,
 ---
 ### ✅ Recommended Movies:
 - **10th & Wolf**
--**Street Kings**
--**Sexy Beast**
--**Ladder 49**
--**Get Carter**
----
+- **Street Kings**
+- **Sexy Beast**
+- **Ladder 49**
+- **Get Carter**
+
 ### 📊 Results
 -Successfully generates top 5 movie recommendations based on similarity.
 -Handles NLP preprocessing (stemming + stopwords removal).
 -Vector space of 5000 features ensures compact yet effective representation.
----
+
